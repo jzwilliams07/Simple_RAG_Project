@@ -1,0 +1,25 @@
+腾讯会议（企业版）登陆操作指南
+How to Log in to Tencent Meeting (Enterprise)
+⼀、 下载“腾讯会议”软件（已有软件或 app 请略过）
+Download Tencent Meeting（Please ignore if it has been done.）
+浏览器中输⼊腾讯会议官⽹地址：
+Please click the link below for download: 
+https://meeting.tencent.com/download-center.html
+根据页面提示，下载并安装适合所用操作系统的“腾讯会议”软件。
+Please download and install a suitable version based on your operation system. 
+下载“腾讯会议”软件按照提示步骤安装完毕。
+Follow the steps displayed, and complete the installation. ⼆、 打开并登录“腾讯会议”软件
+Open and log in to Tencent Meeting
+（1）双击“腾讯会议”软件按钮，打开腾讯会议程序。
+Double click the Tencent Meeting to open the application. 
+（2）SSO ⽅式登录腾讯会议
+Choose the login method: SSO. 
+选择“我知道企业域名”，填写 hkustgz 后点击登陆（如图）：
+Click “I know enterprise domain”, and enter the domain name “hkustgz”
+before you click “Log In” (as screenshots below). 点击登录按钮之后浏览器会自⾏跳转⾄“SSO 统⼀认证服务平台”页面，输⼊账号
+及密码后登陆。
+When you click “Log In”, you will go the the SSO authentication platform. Please 
+enter the username and password of your GZ account. 登录成功之后 点击“启动应用”后腾讯会议软件即完成登陆。
+After login, please allow to open Tencent Meeting. 
+点击头像如已经具有“教育版“字样则说明已经登录成功，下图所示：
+If you click your profile, “Education Edition” will be found (as shown below): 

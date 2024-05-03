@@ -1,0 +1,70 @@
+Go
+HKUST(GZ) 科大 Go Mini Program Usage Guidelines
+一、 如何进入小程序？ How to log in？
+1. 检索方式（二选一） Search method (choose one )
+方法一：在微信下拉进入“小程序导航栏” ，输入“香港科技大学广州丨科大 Go” 并进行检索。
+方法二：用手机微信，扫以下二维码。
+Method 1:Search the WeChat Mini Program named “香港科技大学广州|科大 Go”
+Method 2: Scan the QR code below via WeChat.
+2. 登录 Log in
+打开“香港科技大学广州丨科大 Go”小程序后， 校内人员（教职工、学生、家属等） 使用广州校园统一账号及密码，从“校园统一账号
+登录”入口进入； 校外人员（校外访客等） 使用手机号码从“手机号码登录”入口进入；小程序会根据用户登录方式及用户身份，分配
+对应的功能。
+After opening the Mini Program, faculty, students, family members, etc. use the sso account and password for the Guangzhou campus to enter
+through the " Campus Unified Account " portal; visitors use the mobile phone number to enter through the " Phone Number " portal. The mini
+program will allocate corresponding functions based on the user's login method and identity.
+二、 数字校园卡使用规范 Usage Specification For Digital Campus Card
+1. 数字校园卡二维码 QR code for digital campus card
+登录成功后，将显示数字校园卡二维码。单击二维码区域，可放/刷新大二维码，可提高户外、夜间等场景的刷码成功率， 如下图所示：
+After a successful login, your digital campus card will be displayed as shown in the following example. Clicking on the QR code area canenlarge/refresh the QR code and improve the success rate of scanning in outdoor and nighttime scenarios
+重要提醒： 数字校园卡是个人身份、财产的重要信息，不得手机截屏或投屏，否则会被冻结二维码，更不得转发他人。 如需申请解冻，
+请在“报事报修-IT-校园卡”中提单申请，或电话联系 02088330101。
+IMPORTANT NOTE: The digital campus card contains important personal and property information and should not be screenshot or
+shared via screen projection. Doing so may result in the QR code being frozen, and it is strictly prohibited to forward it to others. If you
+need to apply for unfreezing, please report an issue in the "Repair-IT-Campus Card, or contact us at 02088330101.
+2. 数字校园卡通行功能 Digital campus card access function
+根据学校管理政策，数字校园卡将为不同身份人员赋予不同范围的通行权限，校园用户可在权限范围在校门人行道闸机、 校园门禁、
+电梯、 打印机等使用数字校园卡刷二维码通行。
+According to the school management policy, the digital campus card will grant different access permissions to individuals of different identities.
+Campus users can use the digital campus card to swipe QR codes for access within the authorized areas, such as pedestrian gates, access control
+systems, elevators, and printers.
+3. 数字校园卡支付功能（按需开通， 如果不需要使用科大 Go 支付功能可忽略该提示，不影响通行功能） Digitalcampus card payment function（Use as needed, If you do not need to use the 科大 Go QR code payment function, you
+can ignore it.）
+开通支付功能有以下两种方法。 There are two ways to open Payment function.
+（1） 充值消费：打开“香港科技大学广州|科大 Go”小程序-充值，充值成功后，会自动到账并显示账户余额，刷数字校园卡的二维码
+或者校园卡进行消费，就会直接扣除账户余额。如下图示例：
+Recharge and consumption: Open the "香港科技大学广州|科大 Go " Mini Program, click on "Recharge", and after a successful recharge, the
+account balance will be automatically updated and displayed. When making a payment, simply scan the QR code of your digital campus card or
+use your physical campus card, and the payment will be deducted directly from your account balance. Please refer to the following example for
+more information.
+（2） 免充值支付(小额免密支付)： 打开“香港科技大学广州|科大 Go”小程序-上方红条“尚未开通免密支付功能，请点击启用”，免密支
+付功能开通后，刷数字校园卡的二维码或者校园卡进行消费，就会自动扣除微信零钱包或者选绑的银行卡。如下图示例开通：
+Password-free payment: Open the "香港科技大学广州|科大 Go " Mini Program - Click on the red banner "Enable password-free payment
+function" at the top if the function has not been activated yet. Once the password-free payment function is activated, you can make payments by
+scanning the QR code of your digital campus card or using your physical campus card, and the payment will be automatically deducted from your
+WeChat wallet or the bound bank card. Please refer to the following example for activation.
+4. 如何查询消费记录？ How to query consumption records?
+用户可以通过消费记录功能，查看数字校园卡的消费情况。路径： “香港科技大学广州|科大 Go”小程序-左上角“个人中心”- 消费记录
+进行查询，如下图示例：
+Users can check their digital campus card consumption records through the "Consumption Records" function. To access this function, go to the
+"Personal Center" in the "香港科技大学广州|科大 Go " Mini Program and click on "Consumption Records". Please refer to the following examplefor more information:
+三、 常见问题及回答 Q&A
+1. 如何自定义首页“我的应用”？ How to customize "My Apps" on the home page？
+进入“应用大厅”，长按应用图标拖拽可添加、移除或调整应用顺序，“我的应用”中最多可设置 11 个应用，如需使用更多应用，
+请在“应用大厅” -“全部应用”中查找。
+Enter the "App Center", long press and drag the icon to add, remove, or adjust the application order. You can set up to 11
+applications in "My Apps". If you need to use more applications, please find them in "App Center " - "All Apps".
+2.实体校园卡丢失后如何挂失及解挂？ How to report the campus card loss and unblock it?
+进入科大 Go 小程序，选择“应用大厅” -“卡挂失/解挂”功能，点击“立即挂失”即可完成自助挂失，实时生效，挂失成功后校园卡
+状态将变为“无效”；解挂时点击“立即解挂”即可完成自助挂失，实时生效，解挂成功后校园卡状态将变为“有效”
+Entering the "Card Loss/Unblocking" function in the 科大 Go mini-program, clicking "Report Loss Now" can complete self-service loss reporting,
+which takes effect in real time. After successful loss reporting, the status of the campus card will become "invalid"; when unblocking, clicking
+"Unblock Now" can complete self-service unblocking, which takes effect in real time. After successful unblocking, the status of the campus card
+will become "valid".3.科大 Go 无法登录？ Can't pass the authentication?
+若在登录页面，输入账户密码后无法登录成功， 可致电 IT 服务热线 020-88330101 或邮件发送 IT 服务邮箱 gzit@hkust-gz.edu.cn。若
+忘记密码，可点击链接 https://myaccount.hkust-gz.edu.cn/resetpwd 自助重置密码
+If you are unable to log in successfully after entering your account password on the login page, please call the IT service hotline at 020-
+88330101 or send an email to the IT service email at gzit@hkust-gz.edu.cn. If you forget your password, please click on the link
+https://myaccount.hkust-gz.edu.cn/resetpwd to reset your password.
+如有疑问，请联系 (020) 8833 0101。
+If you have any questions, please contact (020) 8833 0101.

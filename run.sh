@@ -1,0 +1,1 @@
+python hf_download.py --model Qwen/Qwen1.5-4B-Chat --save_dir /data/jiangziyu/models
