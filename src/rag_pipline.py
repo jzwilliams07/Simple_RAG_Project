@@ -11,7 +11,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--documents_directory",
                         help="The directory that has the documents",
-                        default='rag_documents'
+                        default='../rag_documents'
                         )
     parser.add_argument("--embedding_model",
                         help="The HuggingFace path to the embedding model to use",
@@ -63,7 +63,7 @@ if __name__ == "__main__":
     faiss_index.add(embeddings)
 
     #输入你的问题
-    question="请你告诉我，香港科技大学（广州） 一期HPC 平台资费问题我应该咨询哪个邮箱？"
+    question="请你告诉我,如果我想咨询香港科技大学（广州）HPC的收费信息应该向谁询问？"
     #对问题做embedding
     query_embedding = document_embedder.get_document_embeddings([question])
     distances,indices = faiss_index.search(query_embedding.data.cpu().numpy(),
@@ -82,8 +82,8 @@ if __name__ == "__main__":
     '''
     print('Generating answer...')
     generative_model = GenerativeModel(model_path=args.generative_model,
-                                       max_input_length=2000,
-                                       max_generated_length=2000
+                                       max_input_length=200000,
+                                       max_generated_length=200000
                                        )
     answer = generative_model.answer_prompt(rag_prompt)[0].split('### Response:')[1]
     print(answer)
